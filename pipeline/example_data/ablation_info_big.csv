@@ -1,0 +1,182 @@
+label,cell,size,mode,skip,desc
+220530-E1,EMS,6,1,0,only ems
+220530-E2,ABpr,6,1,0,on the edge
+220530-E3,AB,6,1,0,
+220606-E5,AB,6,1,0,poor recoil
+220608-E5,AB,6,1,0,poor recoil
+220621-E9,P0-A,6,0,1,no offset - skip old
+220627-E3,P0-A,6,1,0,only .5 offset
+220627-E10,AB,8,1,0,
+220704-E2,P0-A,8,1,0,poor
+220705-E10,P1,8,1,0,poor recoil
+220705-E12,P0-P,8,1,0,poor
+220705-E14,P0-A,8,1,0,excellent
+220705-E15,P0-P,8,1,1,almost nothing skip
+220707-E2,P1,8,1,0,
+220711-E3,P1,8,1,0,
+220722-E1,P1,8,1,0,poor
+220722-E2,AB,8,1,0,
+220726-E5,P1,8,1,0,poor
+220726-E6,AB,8,1,0,
+220811-E1,P0-A,8,1,0,
+220811-E2,P0-A,8,1,0,partial repair
+220811-E3,P0-P,8,1,0,poor
+220816-E1,P0-A,8,1,0,poor
+220816-E5,P1,8,1,0,
+220816-E6,P0-A,8,1,0,
+220816-E7,AB,8,1,0,fast
+220825-E3,P0-P,8,1,0,later in retraction
+220825-E4,P1,8,1,0,crazy cut
+220825-E9,P1,8,1,0,
+220825-E10,AB,8,1,0,
+220825-E12,P0-P,8,1,0,bad quality
+220825-E13,P0-A,8,1,1,delayed - bad expo - skip
+220830-E1,P0-P,8,1,1,late - expo unusable - skip
+220830-E6,P0-A,8,1,0,
+220830-E7,P0-P,8,1,0,
+220830-E13,P0-P,8,1,0,poor
+220830-E14,P0-A,8,1,0,almost posterior
+220906-E1,P0-A,8,1,0,later in retraction
+220906-E2,P0-P,8,1,0,
+220906-E4,P0-P,8,1,0,aggressive but real
+220912-E2,ABar,6,1,0,poor recoil
+220912-E3,ABpr,6,1,0,
+220912-E5,E,6,1,0,8c
+220912-E6,P0-A,8,1,0,partial repair pseudocleavage
+220912-E7,P0-P,8,1,0,
+220912-E9,ABpr,5,1,0,on the edge
+220912-E10,E,5,1,0,
+220912-E11,MS,5,1,0,one side
+220914-E2,P0-P,8,1,0,poor
+220914-E4,P0-A,8,1,0,poor - later in retraction
+220914-E6,ABar,5,1,0,
+220914-E7,E,5,1,0,strong - MSc
+220914-E8,MS,5,1,0,compr - poor
+220914-E10,ABpl,5,1,0,dense actin right
+220914-E12,ABar,5,1,0,
+220914-E13,P2,5,1,0,
+220919-E3,ABpr,5,1,0,poor
+220919-E4,E,5,1,0,MSc
+220919-E5,MS,5,1,0,good recoil but compr
+220919-E8,P2,5,1,0,
+220919-E9,E,5,1,0,chaotic flowy - on edge
+220919-E10,MS,5,1,0,late poor - compr
+220919-E11,ABpr,5,1,0,
+220919-E12,P2,5,1,0,
+220923-E2,ABpl,5,2,0,dense actin right
+220923-E3,ABpr,5,2,0,expo feels delayed
+220923-E4,ABar,5,2,0,bad quality
+220927-E1,P2,5,2,0,
+220927-E3,ABpl,5,2,0,dense actin right edge
+220927-E6,ABpr,5,2,0,
+220927-E7,E,5,2,1,poor expo - late - throwing
+220927-E8,MS,5,2,0,late - compr
+220927-E9,P2,5,2,0,poor; half cut?
+220927-E10,ABal,5,2,0,
+220927-E11,ABpl,5,2,0,dense actin left
+220927-E12,ABpl,5,2,0,second cut - dense actin right edge
+221004-E5,MS,5,2,1,late - no compr - no actin repair -> skip
+221004-E9,E,5,2,0,late
+221004-E14,MS,5,2,0,feels delayed - less compr
+221004-E15,P2,5,2,0,poor recoil
+221010-E1,P0-A,8,2,0,partial repair
+221010-E2,P0-P,8,2,0,
+221010-E6,ABpl,5,2,0,poor - dense actin
+221010-E8,MS,5,2,0,bit late - compr
+221010-E9,E,5,2,0,delayed cut - abit late
+221017-E1,ABpr,5,2,0,poor
+221017-E2,ABar,5,2,0,
+221017-E3,MS,5,2,0,late - after compr? - atypical
+221017-E8,P2,5,2,1,two phases - delayed
+221017-E10,ABal,5,2,0,
+221017-E11,ABpl,5,2,0,towards protrusion
+221017-E12,ABpl,5,2,1,E11 second cut - dense actin right
+221017-E17,ABpr,5,2,0,
+221017-E18,ABar,5,2,0,
+221017-E19,E,5,2,0,not much signal
+221017-E20,MS,5,2,0,bit late - compr
+221019-E2,P0-P,8,2,0,
+221019-E8,ABal,5,2,0,
+221024-E1,P2,5,2,0,weak
+221024-E2,ABal,5,2,0,
+221024-E3,ABpl,5,2,0,dense actin left?
+221024-E4,E,5,2,0,late
+221024-E5,MS,5,2,0,late - bit compr
+221024-E8,ABpr,5,2,0,weak
+221024-E9,ABar,5,2,0,weak
+221024-E10,MS,5,2,0,compr - poor
+221024-E13,E,5,2,0,late - twostage response
+221102-E2,P0-A,8,2,0,partial repair
+221102-E8,MS,5,2,0,not compr
+221102-E9,E,5,2,0,
+221108-E1,P0-A,8,2,0,not too crazy
+221108-E5,P0-A,8,2,0,partial repair
+221108-E7,P0-A,8,2,0,partial?r - pseudocleavage
+221108-E9,P0-A,8,2,0,
+221108-E10,P0-P,8,2,0,
+221116-E1,P2,5,2,0,too late - ring present
+221116-E2,ABal,5,2,0,(delay:1f) - poor
+221116-E3,P2,5,2,0,little signal
+221116-E4,ABal,5,2,0,
+221116-E5,ABpl,5,2,0,dense actin right
+221116-E6,C,5,2,0,chaotic - only c
+221116-E7,ABal,5,2,0,
+221116-E10,ABpl,5,2,0,dense actin
+221206-E1,P0-A,8,2,0,
+221206-E2,P0-P,8,2,0,little signal
+221206-E6,E,5,2,0,short
+221206-E7,ABpr,5,2,0,
+221206-E8,E,5,2,0,
+221206-E9,MS,5,2,0,
+221206-E10,E,5,2,0,flow
+221206-E11,MS,5,2,0,high compressive
+221206-E12,E,5,2,0,little compressive - low speed
+221206-E13,ABpr,5,2,0,low speed
+221220-E1,ABpr,5,2,0,
+221220-E2,E,5,2,0,high speed
+221220-E3,MS,5,2,0,
+221220-E4,E,5,2,0,decent speed
+230307-E5,ABpr_,5,2,0,2nd
+230307-E6,MS_,5,2,0,late
+230307-E7,E_,5,2,0,late
+230307-E8,ABpl_,5,2,0,late-unsure if good
+230307-E11,ABpr,5,2,0,
+230307-E12,ABpr_,5,2,0,late-2nd
+230313-E1,ABpl_,5,2,0,central
+230313-E2,ABpl,5,2,0,arm
+230313-E3,ABpl_,5,2,0,central
+230313-E4,ABpl,5,2,0,arm
+230321-E2,ABpl,5,2,0,arm-strongflow
+230321-E3,E_,5,2,0,very poor
+230328-E1,P2_,5,2,0,maybe too explody
+230328-E4,MS_,5,2,0,earlier than usual no compressive
+230328-E5,E_,5,2,0,bit messed up
+230328-E6,ABpr_,5,2,0,very little
+230328-E7,ABpr,5,2,0,
+230328-E8,MS,5,2,0,
+230328-E11,P2_,5,2,0,
+230328-E12,ABpl_,5,2,0,centralprotr
+230328-E13,ABpl,5,2,0,arm
+230331-E1,P2_,5,2,0,outlier glob omitted
+230331-E6,ABpl,5,2,0,dubious
+230331-E7,ABpr_,5,2,0,poor
+230331-E8,MS_,5,2,0,little explody
+230331-E9,MS_,5,2,0,
+230331-E10,ABpr_,5,2,0,
+230331-E14,ABpl,5,2,0,
+230413-E1,ABar_,5,2,0,explode i think
+230413-E2,P2_,5,2,0,unsure
+230413-E4,ABpr,5,2,0,poor
+230417-E1,ABar_,5,2,0,
+230417-E2,ABar_,5,2,0,
+230417-E3,E_,5,2,0,fast chaotic
+230417-E4,MS_,5,2,0,
+230417-E9,ABar_,5,2,0,
+230417-E11,ABpl_,5,2,0,really special
+230429-E2,P2_,5,2,0,poor
+230429-E3,ABal_,5,2,1,progressive
+230429-E4,ABpl_,5,2,0,poor
+230429-E8,P2_,5,2,1,unsure
+230429-E9,ABpl,5,2,0,flow
+230429-E10,ABpl_,5,2,0,strong
+230429-E11,ABpl,5,2,0,ok
